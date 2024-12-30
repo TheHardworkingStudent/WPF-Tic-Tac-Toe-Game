@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 ![Screenshot 2024-12-30 151333](https://github.com/user-attachments/assets/ba73025f-1854-4f59-9663-b308f71d5535)
-Description
+## Description
 
 The Tic-Tac-Toe Game is a Windows Forms or WPF application that allows two players to play a game of Tic-Tac-Toe. The application includes a user-friendly interface for selecting board spaces, tracking game status, and displaying the results. A dedicated class is used to encapsulate the game logic, ensuring separation between the UI and business logic.
 
